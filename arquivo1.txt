@@ -1,5 +1,9 @@
 Arquivo alterado para merge. Agora alterado novamente. Mais uma vez.
-
+add
 
 Kelme fez essa linha.
 Jânio fez essa linha.
+
+Sim
+
+fdd
